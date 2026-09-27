@@ -1,0 +1,18 @@
+{
+  "name": "devfest-pretoria-2026-codelab",
+  "version": "1.0.0",
+  "description": "Step-by-step interactive codelab web application for DevFest Pretoria 2026",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y serve .",
+    "dev": "npx -y serve ."
+  },
+  "keywords": [
+    "codelab",
+    "workshop",
+    "antigravity",
+    "gemini"
+  ],
+  "author": "DevFest Pretoria 2026 Team",
+  "license": "MIT"
+}
